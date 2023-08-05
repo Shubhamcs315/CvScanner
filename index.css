@@ -1,0 +1,17 @@
+h1{
+    margin-left: 445px;
+}
+td{
+    border: 0.01px solid black;
+    width: 405px;
+    height:30px;
+}
+table{
+    margin-left: 500px;
+    text-align: center;
+}
+#x1{
+    width: 412px;
+    margin-left: 501px;
+    background-color: #288dfa;
+}
